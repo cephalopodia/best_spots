@@ -4,6 +4,8 @@ As known as **North Rd, Brighton Boat Ramp**, it has been a good and unpopular s
 The water is normally clear and shallow. Furthermore, the sea bed is flocked with sea cabbage and other soft-sea weed.
 Beware, there are small rocks that would easily take away your valueable jigs.
 
+![Elwood Boat Ramp Map](https://raw.githubusercontent.com/cephalopodia/best_spots/master/VIC/elwood_boat_ramp.png)
+
 There are 2 spots that are ideal to station, one is at the `rock edge to the South` and one is the `pier` that is next to
 the boat ramp.
 
@@ -52,3 +54,7 @@ caught so far
 **Chasing small squids**:
 
 * 1.5 to 1.8 | slow sinking | blue / black at night (literrally any brand)
+
+**Recommended Tackle**:
+
+* Use at least 15lb leader, this place is snaggy hell, not as worst as Findlers pier but many have shared poor fate here :(
