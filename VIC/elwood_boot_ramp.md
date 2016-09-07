@@ -26,6 +26,8 @@ If you are into finicky small size (just like those in Rosebud pier), you should
 are reports of small squids attracted to lights near the pier. Those small squids tend to be timid and don't often
 go for big jig, please use size 1.5 to 1.8 size jig.
 
+It is a NO GO if the water is dirty and shallow.
+
 **Location:** in [Google Map](https://www.google.com.au/maps/place/Elwood+Boat+Ramp/@-37.8983401,144.9826991,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad668c0c177eecf:0x2838db366033a048!8m2!3d-37.8983401!4d144.9848878)
 
 **Parking:** On the spot parking is 8AM - 8PM paid parking ($5.30/h), please be noted the parking lot closed at 11PM
